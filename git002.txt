@@ -1,0 +1,6 @@
+git只关注修改文件
+git文件
+删除（git rm --文件名字）
+与
+恢复（1.在工作区误删除{用 git checkout --文件名}）
+（2.在本地库删除 回退到上个版本 重新在work区创建完文件夹后 把它add然后commit提交完后  用git ls-files查看文件）
